@@ -7,7 +7,7 @@ body::after {
   bottom     : 0;
   left       : 0;
   opacity    : 0.9;
-  background : url("fondo.png");
+  background : url("fondo.jpg");
 }
 html {
   min-height: 100%;
